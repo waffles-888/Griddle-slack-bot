@@ -1,1 +1,1 @@
-# Griddle_slack_bot
+# Griddle-slack-bot
