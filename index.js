@@ -30,7 +30,7 @@ app.command("/griddle-help", async ({ ack, respond }) => {
 /griddle-help - Show available commands
 /griddle-ping - Check if the bot is alive
 /griddle-catfact - Get a cat fact
-/griddle-stardance - Countdown to the end of stardance 30th of september`
+/griddle-stardance - Countdown to the end of stardance`
   });
 });
 
