@@ -64,7 +64,7 @@ app.command("/griddle-stardance", async ({ ack, respond }) => {
   const seconds = Math.floor((timeDiff / 1000) % 60);
 
   await respond({
-    text: `Countdown to Stardance:\n${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds remaining.`
+    text: `Countdown to Stardance end:\n${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds remaining.`
 });
 });
 
