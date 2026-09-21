@@ -1,0 +1,26 @@
+{
+  "name": "griddle-slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waffles-888/Griddle-slack-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/waffles-888/Griddle-slack-bot/issues"
+  },
+  "homepage": "https://github.com/waffles-888/Griddle-slack-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^5.1.0",
+    "axios": "^1.20.0",
+    "dotenv": "^18.0.1"
+  }
+}
